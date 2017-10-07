@@ -1,0 +1,19 @@
+{
+  "name": "civofwar",
+  "version": "1.0.0",
+  "description": "Web Based RTS with Advanced AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexbay218/CivOfWar.git"
+  },
+  "author": "Alexbay218",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alexbay218/CivOfWar/issues"
+  },
+  "homepage": "https://github.com/Alexbay218/CivOfWar#readme"
+}
